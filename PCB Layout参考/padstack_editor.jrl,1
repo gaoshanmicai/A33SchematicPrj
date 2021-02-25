@@ -1,0 +1,25 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Wed Feb 24 20:19:53 2021
+\t (00:00:00)         Host=DESKTOP-8LVPSQD User=49365 Pid=8368 CPUs=16
+\t (00:00:00) CmdLine= padstack_editor -mpssession 49365 -file ./#Taaaaad04468.tmp -pname VIA8X16-1 -data C:/Users/49365/AppData/Local/Temp/#Taaaaaf04468.tmp
+\t (00:00:00) 
+\d (00:00:08) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Thermal Pad"
+\d (00:00:08) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Thermal Pad" "Circle 26.0000" +
+\d (00:00:08) QtSignal 1 3
+\d (00:00:08) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 1 "Thermal Pad" "Circle 26.0000" +
+\d (00:00:08) QtSignal 1 3
+\d (00:00:08) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Thermal Pad" "Circle 26.0000" +
+\d (00:00:08) QtSignal 1 3
+\d (00:00:10) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Thermal Pad"
+\d (00:00:10) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Thermal Pad" "Circle 26.0000" +
+\d (00:00:10) QtSignal 2 3
+\d (00:00:10) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 2 "Thermal Pad" "Circle 26.0000" +
+\d (00:00:10) QtSignal 2 3
+\d (00:00:10) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Thermal Pad" "Circle 26.0000" +
+\d (00:00:10) QtSignal 2 3
+\d (00:00:11) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 3 "Thermal Pad"
+\d (00:00:11) QtSignal GuidedDesignLayersTab LayersTable cellClicked 3 "Thermal Pad" "Circle 26.0000" +
+\d (00:00:11) QtSignal 3 3
+\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\t (00:00:16)     Journal end - Wed Feb 24 20:20:09 2021

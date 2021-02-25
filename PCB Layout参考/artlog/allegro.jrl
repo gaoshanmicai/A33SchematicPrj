@@ -1,0 +1,59 @@
+\t (00:00:26) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:26)     Journal start - Thu Feb 25 16:46:09 2021
+\t (00:00:26)         Host=YUAN-PC User=mrx_yuan Pid=14200 CPUs=4
+\t (00:00:26) CmdLine= E:\cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:26) 
+\d (00:00:26) Design opened: E:/AllWinPCBdata/A33Example/PCB Layout²Î¿¼/A33_REF_8X2_16X1_16X2_V1_0_20140320_162.brd
+\i (00:00:27) generaledit 
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 3783.1168 2126.5257
+\i (00:00:27) trapsize 50913
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 3783.1168 2126.5257
+\i (00:00:27) trapsize 101826
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 3646.6706 2478.8421
+\i (00:00:28) trapsize 203651
+\i (00:00:28) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 3528.5529 3138.6716
+\i (00:00:29) trapsize 101826
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 3530.5895 3142.7447
+\i (00:00:29) trapsize 50913
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 3530.5895 3142.7447
+\i (00:00:29) trapsize 25456
+\i (00:00:29) pick grid 3544.3359 3103.5419
+\t (00:00:29) last pick:  3544.3306 3103.5416
+\i (00:00:31) setwindow form.find
+\i (00:00:31) FORM find symbols YES 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) pick grid 3673.6544 3081.1403
+\t (00:00:35) last pick:  3673.6586 3081.1452
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 3663.4718 3076.5581
+\i (00:00:38) trapsize 12728
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 3663.4718 3076.5581
+\i (00:00:38) trapsize 6364
+\i (00:00:53) pick grid 3663.4718 3076.5581
+\t (00:00:53) last pick:  3663.4752 3076.5550
+\i (00:00:53) prepopup 3663.4718 3076.5581
+\i (00:00:57) open 
+\e (00:00:57) Do you want to save the changes you made to A33_REF_8X2_16X1_16X2_V1_0_20140320_162.brd?
+\i (00:00:58) fillin no 
+\i (00:01:13) fillin "E:\AllWinPCBdata\A33Example\PCB Layout²Î¿¼\lib\bga282p0_80b14x14h1_30.dra"
+\i (00:01:13) cd "E:\AllWinPCBdata\A33Example\PCB Layout²Î¿¼\lib"
+\t (00:01:13) Opening existing design...
+\i (00:01:13) trapsize 62022
+\i (00:01:13) trapsize 63622
+\i (00:01:13) trapsize 115421
+\t (00:01:13)     Journal end - Thu Feb 25 16:46:56 2021

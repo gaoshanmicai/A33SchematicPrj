@@ -1,0 +1,106 @@
+\t (00:01:21) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:01:21)     Journal start - Sun Feb 21 00:00:16 2021
+\t (00:01:21)         Host=DESKTOP-8LVPSQD User=49365 Pid=14756 CPUs=16
+\t (00:01:21) CmdLine= D:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:01:21) 
+\d (00:01:21) Design opened: D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/lib/aw-tech-c.dra
+\i (00:01:22) generaledit 
+\i (00:01:24) open 
+\e (00:01:24) Do you want to save the changes you made to aw-tech-c.dra?
+\i (00:01:25) fillin no 
+\i (00:01:27) fillin "ab00.dra"
+\t (00:01:27) Opening existing design...
+\i (00:01:28) trapsize 34889
+\i (00:01:28) trapsize 35757
+\i (00:01:28) trapsize 65123
+\d (00:01:28) Design opened: D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/lib/ab00.dra
+\i (00:01:28) generaledit 
+\i (00:01:29) open 
+\e (00:01:29) Do you want to save the changes you made to ab00.dra?
+\i (00:01:31) fillin no 
+\i (00:01:35) fillin "srx0_25y1_15r0_10.dra"
+\t (00:01:35) Opening existing design...
+\i (00:01:35) trapsize 36304
+\i (00:01:35) trapsize 37207
+\i (00:01:35) trapsize 67763
+\d (00:01:35) Design opened: D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/lib/srx0_25y1_15r0_10.dra
+\i (00:01:35) generaledit 
+\i (00:01:37) open 
+\e (00:01:37) Do you want to save the changes you made to srx0_25y1_15r0_10.dra?
+\i (00:01:39) fillin no 
+\i (00:01:44) fillin "tob1_65x3-1_15x2_5.dra"
+\t (00:01:44) Opening existing design...
+\i (00:01:44) trapsize 38916
+\i (00:01:45) trapsize 39885
+\i (00:01:45) trapsize 72640
+\d (00:01:45) Design opened: D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/lib/tob1_65x3-1_15x2_5.dra
+\i (00:01:45) generaledit 
+\i (00:01:50) open 
+\e (00:01:50) Do you want to save the changes you made to tob1_65x3-1_15x2_5.dra?
+\i (00:01:52) fillin no 
+\i (00:01:55) fillin "fbga96c80p9x13.dra"
+\t (00:01:55) Opening existing design...
+\i (00:01:55) trapsize 58843
+\i (00:01:55) trapsize 60308
+\i (00:01:55) trapsize 109836
+\d (00:01:55) Design opened: D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/lib/fbga96c80p9x13.dra
+\i (00:01:55) generaledit 
+\i (00:01:57) pick grid 62.7688 25.4246
+\t (00:01:57) last pick:  100.0000 0.0000
+\i (00:01:57) zoom in 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom in 62.7688 25.4246
+\i (00:01:57) trapsize 54918
+\i (00:02:00) open 
+\e (00:02:00) Do you want to save the changes you made to fbga96c80p9x13.dra?
+\i (00:02:02) fillin no 
+\i (00:02:09) fillin "bga282p0_80b14x14h1_30.dra"
+\t (00:02:09) Opening existing design...
+\i (00:02:10) trapsize 59913
+\i (00:02:10) trapsize 61405
+\i (00:02:10) trapsize 111833
+\d (00:02:10) Design opened: D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/lib/bga282p0_80b14x14h1_30.dra
+\i (00:02:10) generaledit 
+\i (00:02:11) zoom in 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom in 128.1377 119.1910
+\i (00:02:11) trapsize 55917
+\i (00:02:11) zoom in 1 
+\i (00:02:11) setwindow pcb
+\i (00:02:11) zoom in -208.4802 119.1910
+\i (00:02:11) trapsize 27958
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in -98.3246 144.3535
+\i (00:02:13) trapsize 13979
+\i (00:02:13) zoom in 1 
+\i (00:02:13) setwindow pcb
+\i (00:02:13) zoom in -98.3246 144.3535
+\i (00:02:13) trapsize 6990
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out -98.3246 144.3535
+\i (00:02:14) trapsize 13979
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out -98.3247 144.3535
+\i (00:02:14) trapsize 27958
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out -98.3246 144.3535
+\i (00:02:14) trapsize 55917
+\i (00:02:14) zoom out 1 
+\i (00:02:14) setwindow pcb
+\i (00:02:14) zoom out -98.3246 144.3535
+\i (00:02:14) trapsize 111833
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in 119.1910 52.0911
+\i (00:02:16) trapsize 55917
+\i (00:02:16) zoom in 1 
+\i (00:02:16) setwindow pcb
+\i (00:02:16) zoom in -212.9536 52.0912
+\i (00:02:16) trapsize 27958
+\i (00:02:23) zoom in 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom in -50.7955 42.02

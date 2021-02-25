@@ -1,0 +1,309 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sat Feb 20 23:59:49 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: D:/017_PCB&document/PCB_Example/A33Example/PCB Layout²Î¿¼/A33_REF_8X2_16X1_16X2_V1_0_20140320_162.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  HOLE59 being dumped.
+
+  PAD6X6 being dumped.
+
+  EX0_30Y0_30T being dumped.
+
+  PAD5_49X5_49 being dumped.
+
+  EX0_40Y0_40T being dumped.
+
+  TPC60T being dumped.
+
+  EX0_25Y0_35T being dumped.
+
+  EX0_26Y0_26T being dumped.
+
+  EX0_35Y0_35T being dumped.
+
+  R100_90 being dumped.
+
+  OX0_60Y1_25T being dumped.
+
+  OX1_65Y0_20T being dumped.
+
+  R100_95 being dumped.
+
+  RX0_30Y0_56T being dumped.
+
+  OX0_61Y2_17T being dumped.
+
+  RX0_80Y0_90T being dumped.
+
+  OX0_58Y2_17T being dumped.
+
+  PAD5_30D2_50S being dumped.
+
+  CIR1_00 being dumped.
+
+  SMD0_55OB1_20 being dumped.
+
+  VIA8X16 being dumped.
+
+  R140_105 being dumped.
+
+  HOLE126CIR250D being dumped.
+
+  HOLE1_4 being dumped.
+
+  VIA10X18 being dumped.
+
+  PAD1_40CIR2_00 being dumped.
+
+  PAD150OBL120_50 being dumped.
+
+  HOLE090M being dumped.
+
+  HOLE1_10 being dumped.
+
+  HOLE1_60 being dumped.
+
+  HOLE0_90 being dumped.
+
+  RECT_X2_0Y0_7 being dumped.
+
+  RECT_X2_0Y0_8 being dumped.
+
+  RECT_X3_5Y1_5 being dumped.
+
+  FIDUCIAL being dumped.
+
+  MINIUSB1 being dumped.
+
+  MINIUSB2 being dumped.
+
+  1210 being dumped.
+
+  0805 being dumped.
+
+  IDC being dumped.
+
+  R0_45X1_6 being dumped.
+
+  SMD300_500 being dumped.
+
+  SMD025_250 being dumped.
+
+  VIA being dumped.
+
+  SIP_PAD60CIR38D being dumped.
+
+  PAD60SQ40D being dumped.
+
+  RECT_X0_40Y2_40 being dumped.
+
+  RECT_X0_40Y1_65 being dumped.
+
+  RX1_80Y5_00_SMA being dumped.
+
+  O1_15X2_5P0_65X2 being dumped.
+
+  OX2_6Y1_02 being dumped.
+
+  PAD60CIR40D being dumped.
+
+  PAD49CIR27D being dumped.
+
+  PAD49CIR29D being dumped.
+
+  PAD49CIR27S being dumped.
+
+  PAD49CIR29S being dumped.
+
+  OX1_00Y1_00 being dumped.
+
+  OX1_00Y2_00 being dumped.
+
+  RX0_60Y2_00 being dumped.
+
+  OX2_50Y5_00 being dumped.
+
+  RX0_40Y0_32 being dumped.
+
+  RX1_50Y2_20 being dumped.
+
+  RX1_30Y0_60 being dumped.
+
+  RX0_50Y0_60 being dumped.
+
+  OX1_05Y1_25 being dumped.
+
+  RX1_80Y3_00 being dumped.
+
+  RX1_50Y0_60 being dumped.
+
+  RX0_45Y0_30 being dumped.
+
+  RX1_05Y0_60 being dumped.
+
+  RX1_80Y3_20 being dumped.
+
+  RX0_50Y1_80 being dumped.
+
+  RX0_70Y1_60 being dumped.
+
+  RX1_05Y0_30R0_10T being dumped.
+
+  RX0_30Y0_35R0_10T being dumped.
+
+  RX1_00Y1_95 being dumped.
+
+  RX0_70Y0_45 being dumped.
+
+  RX0_45Y0_25 being dumped.
+
+  RX1_80Y1_70 being dumped.
+
+  RX1_80Y4_50 being dumped.
+
+  RX0_25Y1_15R0_10T being dumped.
+
+  RX1_50Y1_70R0_10T being dumped.
+
+  RX0_65Y1_25 being dumped.
+
+  RX0_77Y0_30R0_10T being dumped.
+
+  RX1_01Y3_49R0_10T being dumped.
+
+  RX0_66Y0_56 being dumped.
+
+  RX2_50Y3_80R0_10T being dumped.
+
+  RX0_80Y1_55R0_10T being dumped.
+
+  RX1_75Y2_40R0_10T being dumped.
+
+  RX0_35Y0_75R0_10T being dumped.
+
+  RX2_66Y1_60R0_10T being dumped.
+
+  RX0_85Y1_35R0_10T being dumped.
+
+  RX1_27Y1_47R0_10T being dumped.
+
+  PAD0_70D1_20 being dumped.
+
+  SMD050 being dumped.
+
+  PAD1_90X2_10 being dumped.
+
+  SOT-23 being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  srx1_05y0_30r0_10 being dumped.
+
+  srx1_15y0_40r0_10 being dumped.
+
+  srx0_25y1_15r0_10 being dumped.
+
+  srx1_50y1_70r0_10 being dumped.
+
+  srx0_35y1_25r0_10 being dumped.
+
+  srx1_60y1_80r0_10 being dumped.
+
+  srx0_77y0_30r0_10 being dumped.
+
+  srx1_01y3_49r0_10 being dumped.
+
+  srx2_50y3_80r0_10 being dumped.
+
+  srx0_80y1_55r0_10 being dumped.
+
+  srx0_87y0_40r0_10 being dumped.
+
+  srx1_75y2_40r0_10 being dumped.
+
+  srx1_11y3_59r0_10 being dumped.
+
+  srx2_60y3_90r0_10 being dumped.
+
+  srx0_35y0_75r0_10 being dumped.
+
+  srx0_90y1_65r0_10 being dumped.
+
+  srx2_66y1_60r0_10 being dumped.
+
+  srx1_85y2_50r0_10 being dumped.
+
+  srx0_85y1_35r0_10 being dumped.
+
+  srx0_45y0_85r0_10 being dumped.
+
+  srx1_27y1_47r0_10 being dumped.
+
+  srx2_76y1_70r0_10 being dumped.
+
+  srx0_95y1_45r0_10 being dumped.
+
+  srx1_37y1_57r0_10 being dumped.
+
+
+  *** Creating flash symbols (.dra and .fsm) ***
+
+  sip_pad60cir38d_th being dumped.
+
+  th-pad60cir40d being dumped.
+
+  ab00 being dumped.
+
+  f150_210_40 being dumped.
+
+  tob1_65x3-1_15x2_5 being dumped.
+
+  tr26x40x15-45 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  fbga96c80p9x13 being dumped.
+
+  bga282p0_80b14x14h1_30 being dumped.
+
+  c0402 being dumped.
+
+  c0603 being dumped.
+
+  r0402 being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  aw-tech-c being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               96
+Number of package symbols dumped:          5
+Number of mechanical symbols dumped:       1
+Number of shape symbols dumped:           24
+Number of flash symbols dumped:            6
+
+Total number of symbols dumped:           36
+*****************************************************
+

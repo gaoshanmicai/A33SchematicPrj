@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : A33_REF_8X2_16X1_16X2_V1_0_20140320_162.brd   )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Feb 24 20:17:09 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/r10805_r0402_0rnc.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/r10805_r0402_nc0r.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/bga280_3_bga282p0_80b14x14h1_30.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/r_r0402_nc240-1.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/r10805_r0402_nc100r.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/ddr3_1_fbga96c80p9x13_ddr3-fbga.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/capacitor_0_c0603_47uf.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/capacitor_0_c0402_1uf.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/capacitor_0_c0402_104.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/cap_0_c0402_104.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/_0_r0402_2k-1.txt': written successfully.
+Device file 'D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/PCBlib/r_r0402_240-1.txt': written successfully.
+
+  Created device files: 12
+

@@ -1,0 +1,47 @@
+\t (00:01:13) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:01:13)     Journal start - Thu Feb 25 16:46:56 2021
+\t (00:01:13)         Host=YUAN-PC User=mrx_yuan Pid=14200 CPUs=4
+\t (00:01:13) CmdLine= E:\cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:01:13) 
+\d (00:01:13) Design opened: E:/AllWinPCBdata/A33Example/PCB Layout²Î¿¼/lib/bga282p0_80b14x14h1_30.dra
+\i (00:01:14) generaledit 
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in -184.3135 141.1749
+\i (00:01:15) trapsize 57711
+\i (00:30:59) exit 
+\e (00:30:59) Do you want to save the changes you made to bga282p0_80b14x14h1_30.dra?
+\i (00:31:02) fillin menu_cancel 
+\i (00:31:02) generaledit 
+\i (00:31:03) zoom in 1 
+\i (00:31:03) setwindow pcb
+\i (00:31:03) zoom in -46.9620 -112.7522
+\i (00:31:03) trapsize 28855
+\i (00:31:03) zoom out 1 
+\i (00:31:03) setwindow pcb
+\i (00:31:03) zoom out -44.6536 -110.4438
+\i (00:31:03) trapsize 57711
+\i (00:31:04) zoom in 1 
+\i (00:31:04) setwindow pcb
+\i (00:31:04) zoom in 149.2545 28.0620
+\i (00:31:04) trapsize 28855
+\i (00:31:05) zoom in 1 
+\i (00:31:05) setwindow pcb
+\i (00:31:05) zoom in 149.2545 28.0620
+\i (00:31:05) trapsize 14428
+\i (00:31:05) zoom out 1 
+\i (00:31:05) setwindow pcb
+\i (00:31:05) zoom out 154.4485 30.3705
+\i (00:31:05) trapsize 28855
+\i (00:31:05) zoom out 1 
+\i (00:31:05) setwindow pcb
+\i (00:31:05) zoom out 154.4485 30.3705
+\i (00:31:05) trapsize 57711
+\i (00:31:05) zoom out 1 
+\i (00:31:05) setwindow pcb
+\i (00:31:05) zoom out 154.4485 30.3705
+\i (00:31:05) trapsize 115421
+\i (00:31:06) exit 
+\e (00:31:06) Do you want to save the changes you made to bga282p0_80b14x14h1_30.dra?
+\i (00:31:08) fillin no 
+\t (00:31:09)     Journal end - Thu Feb 25 17:16:51 2021

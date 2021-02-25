@@ -1,0 +1,162 @@
+\t (00:00:08) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:08)     Journal start - Wed Feb 24 20:15:04 2021
+\t (00:00:08)         Host=DESKTOP-8LVPSQD User=49365 Pid=4468 CPUs=16
+\t (00:00:08) CmdLine= d:\cadence\cadence\cadence_spb_17.2-2016\tools\bin\allegro.exe D:\017_PCB&document\PCB_Example\A33Example\PCB Layout参考\A33_REF_8X2_16X1_16X2_V1_0_20140320_162.brd
+\t (00:00:08) 
+   (00:00:09) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\i (00:00:13) fillin yes 
+\d (00:00:13) Design opened: D:/017_PCB&document/PCB_Example/A33Example/PCB Layout参考/A33_REF_8X2_16X1_16X2_V1_0_20140320_162.brd
+\i (00:00:13) trapsize 23972
+\i (00:00:13) trapsize 24569
+\i (00:00:13) trapsize 24569
+\i (00:00:14) generaledit 
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 3546.9543 2256.4748
+\i (00:00:14) trapsize 49138
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 3546.9543 2256.4749
+\i (00:00:15) trapsize 98277
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 3548.9199 2256.4749
+\i (00:00:15) trapsize 196554
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out 3643.2657 2048.1279
+\i (00:00:15) trapsize 393107
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 3077.1911 2040.2659
+\i (00:00:15) trapsize 196554
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 3081.1221 2063.8523
+\i (00:00:15) trapsize 98277
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 3318.9521 2177.8534
+\i (00:00:16) trapsize 49138
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 3331.7282 2182.7673
+\i (00:00:16) trapsize 24569
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 3393.6426 2188.1725
+\i (00:00:17) trapsize 49138
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 3393.6427 2188.1726
+\i (00:00:17) trapsize 98277
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 3596.0929 2292.3460
+\i (00:00:17) trapsize 196554
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 3745.4738 2398.4849
+\i (00:00:18) trapsize 393107
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 3942.0275 2925.2489
+\i (00:00:18) trapsize 196554
+\i (00:00:19) zoom in 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom in 3953.8207 2944.9043
+\i (00:00:19) trapsize 98277
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 3340.5733 1909.0664
+\i (00:00:21) trapsize 49138
+\i (00:00:23) pick grid 3331.7284 1959.1876
+\t (00:00:23) last pick:  3331.7300 1959.1894
+\i (00:00:26) setwindow form.find
+\i (00:00:26) FORM find pins YES 
+\i (00:00:27) FORM find nets YES 
+\i (00:00:28) FORM find pins NO 
+\i (00:00:29) FORM find nets NO 
+\i (00:00:29) FORM find nets YES 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) pick grid 3699.2838 1936.5839
+\t (00:00:32) last pick:  3699.2882 1936.5806
+\i (00:00:32) drag_start grid 3699.2838 1936.5839
+\i (00:00:32) drag_stop 3772.0086 1973.9291
+\i (00:00:33) pick grid 3637.3694 1960.1704
+\t (00:00:33) last pick:  3637.3736 1960.1688
+\i (00:00:35) zoom out 1 
+\i (00:00:35) setwindow pcb
+\i (00:00:35) zoom out 3632.4555 1972.9464
+\i (00:00:35) trapsize 98277
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 3632.4555 1972.9463
+\i (00:00:36) trapsize 196554
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 3601.0070 2197.0175
+\i (00:00:36) trapsize 98277
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 3599.0415 2393.5712
+\i (00:00:37) trapsize 49138
+\i (00:00:49) setwindow form.mini
+\i (00:00:49) FORM mini class ETCH 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 3515.5062 2399.4678
+\i (00:01:09) trapsize 98277
+\i (00:01:09) zoom out 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom out 3521.4028 2381.7780
+\i (00:01:09) trapsize 196554
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in 3442.7813 2668.7463
+\i (00:01:09) trapsize 98277
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 3442.7813 2668.7464
+\i (00:01:10) trapsize 49138
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 3430.9881 2585.2111
+\i (00:01:10) trapsize 24569
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 3430.9881 2585.2111
+\i (00:01:10) trapsize 12285
+\i (00:01:11) zoom out 1 
+\i (00:01:11) setwindow pcb
+\i (00:01:11) zoom out 3433.1994 2592.5819
+\i (00:01:11) trapsize 24569
+\i (00:01:12) zoom out 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom out 3433.1994 2592.5819
+\i (00:01:12) trapsize 49138
+\i (00:01:14) zoom out 1 
+\i (00:01:14) setwindow pcb
+\i (00:01:14) zoom out 3389.9576 2605.3579
+\i (00:01:14) trapsize 98277
+\i (00:01:49) dlib 
+\i (00:01:52) setwindow form.dlib
+\i (00:01:52) FORM dlib browse_export  
+\i (00:02:09) fillin "PCBlib"
+\i (00:02:12) FORM dlib execute  
+\t (00:02:12) Starting Cadence export libraries...
+\i (00:02:19) FORM dlib cancel  
+\i (00:02:20) setwindow pcb
+\i (00:02:20) generaledit 
+\i (00:02:21) open 
+\e (00:02:21) Do you want to save the changes you made to A33_REF_8X2_16X1_16X2_V1_0_20140320_162.brd?
+\i (00:02:23) fillin no 
+\i (00:02:38) fillin "D:\017_PCB&document\PCB_Example\A33Example\PCB Layout参考\lib\srx2_76y1_70r0_10.dra"
+\i (00:02:38) cd "D:\017_PCB&document\PCB_Example\A33Example\PCB Layout参考\lib"
+\t (00:02:38) Opening existing design...
+\i (00:02:38) trapsize 38846
+\i (00:02:38) trapsize 39812
+\i (00:02:39) trapsize 72508
+\t (00:02:39)     Journal end - Wed Feb 24 20:17:34 2021
