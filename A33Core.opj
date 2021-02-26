@@ -15,11 +15,12 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources" ".\a33core.dsn")
+      (Path "Design Resources" ".\a33core.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\a33core.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "E:\AllWinPCBdata\A33Example\A33CoreBoard\usbtolightninglib.olb")
-      (Select "Design Resources" "Library"
-         "E:\AllWinPCBdata\A33Example\A33CoreBoard\usbtolightninglib.olb"))
+      (Path "Design Resources" "Library" ".\usbtolightninglib.olb")
+      (Select "Design Resources" "Library" ".\usbtolightninglib.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -29,21 +30,54 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 1178 78 321")
+        (Placement "44 0 1 -1 -1 -8 -31 78 1178 78 321")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
-        (Scroll "2317 418")
-        (Zoom "192"))
-      (Path "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\USBTOLIGHTNINGLIB.OLB")
+        (Scroll "-76 0")
+        (Zoom "14"))
+      (Path
+         "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33SCHEMATICPRJ\USBTOLIGHTNINGLIB.OLB")
       (Package "A33"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 910 104 347")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "448 308")
+        (Zoom "222"))
+      (Path
+         "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33SCHEMATICPRJ\USBTOLIGHTNINGLIB.OLB")
+      (Package "AXP228"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 78 884 78 321")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "0 0")
+        (Zoom "110"))
+      (Path
+         "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33SCHEMATICPRJ\USBTOLIGHTNINGLIB.OLB")
+      (Package "THGBMDG5D1LBAIL"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1152 52 295")
-        (Scroll "-41 0")
-        (Zoom "100")
+        (Scroll "0 113")
+        (Zoom "56")
         (Occurrence "/"))
-      (Path "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33CORE.DSN")
+      (Path
+         "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33SCHEMATICPRJ\A33CORE.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+      (Page "PAGE1")))
+  (MPSSessionName "mrx_yuan")
+  (PartMRUSelector
+    (A33
+      (FullPartName "A33.Normal")
+      (LibraryName
+         "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33SCHEMATICPRJ\USBTOLIGHTNINGLIB.OLB")
+      (DeviceIndex "0"))))
