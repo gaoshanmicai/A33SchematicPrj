@@ -15,18 +15,34 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\a33core.dsn")
-      (Path "Design Resources" ".\a33core.dsn" "SCHEMATIC1")
-      (Path "Design Resources" ".\a33core.dsn" "Design Cache")
+      (Path "Design Resources"
+         "e:\allwinpcbdata\a33example\a33coreboard\a33schematicprj\a33core.dsn")
+      (Path "Design Resources"
+         "e:\allwinpcbdata\a33example\a33coreboard\a33schematicprj\a33core.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "e:\allwinpcbdata\a33example\a33coreboard\a33schematicprj\a33core.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library" ".\usbtolightninglib.olb")
-      (Select "Design Resources" "Library" ".\usbtolightninglib.olb"))
+      (Path "Design Resources" "Library"
+         "e:\allwinpcbdata\a33example\a33coreboard\a33schematicprj\usbtolightninglib.olb"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 200 0 204"))
       (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1152 52 295")
+        (Scroll "0 113")
+        (Zoom "56")
+        (Occurrence "/"))
+      (Path
+         "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33SCHEMATICPRJ\A33CORE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
     (Doc
       (Type "COrPartDoc")
       (Frame
@@ -54,7 +70,7 @@
     (Doc
       (Type "COrPartDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 78 884 78 321")
+        (Placement "44 0 1 -1 -1 -8 -31 78 884 78 321")
         (PackageScroll "0 0")
         (PackageZoom "1")
         (PartPackage "Part")
@@ -62,18 +78,7 @@
         (Zoom "110"))
       (Path
          "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33SCHEMATICPRJ\USBTOLIGHTNINGLIB.OLB")
-      (Package "THGBMDG5D1LBAIL"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1152 52 295")
-        (Scroll "0 113")
-        (Zoom "56")
-        (Occurrence "/"))
-      (Path
-         "E:\ALLWINPCBDATA\A33EXAMPLE\A33COREBOARD\A33SCHEMATICPRJ\A33CORE.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1")))
+      (Package "THGBMDG5D1LBAIL")))
   (MPSSessionName "mrx_yuan")
   (PartMRUSelector
     (A33
